@@ -5,5 +5,6 @@ public static void main(String[] args) {
 	Long b= null;
 	a = b;
 	System.out.println(a);
+	test
 }
 }
